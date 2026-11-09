@@ -1,0 +1,92 @@
+{
+	"fileType": "deities-sublist",
+	"siteVersion": "2.41.0",
+	"name": "5.5e deities",
+	"saveId": "5be3d1c3-1cf9-433a-8cc4-f919a3df5d41",
+	"items": [
+		{
+			"h": "beory_greyhawk_xdmg"
+		},
+		{
+			"h": "berei_greyhawk_xdmg"
+		},
+		{
+			"h": "boccob_greyhawk_xdmg"
+		},
+		{
+			"h": "celestian_greyhawk_xdmg"
+		},
+		{
+			"h": "cuthbert_greyhawk_xdmg"
+		},
+		{
+			"h": "ehlonna_greyhawk_xdmg"
+		},
+		{
+			"h": "erythnul_greyhawk_xdmg"
+		},
+		{
+			"h": "fharlanghn_greyhawk_xdmg"
+		},
+		{
+			"h": "heironeous_greyhawk_xdmg"
+		},
+		{
+			"h": "hextor_greyhawk_xdmg"
+		},
+		{
+			"h": "incabulos_greyhawk_xdmg"
+		},
+		{
+			"h": "istus_greyhawk_xdmg"
+		},
+		{
+			"h": "iuz_greyhawk_xdmg"
+		},
+		{
+			"h": "kord_greyhawk_xdmg"
+		},
+		{
+			"h": "nerull_greyhawk_xdmg"
+		},
+		{
+			"h": "obad-hai_greyhawk_xdmg"
+		},
+		{
+			"h": "olidammara_greyhawk_xdmg"
+		},
+		{
+			"h": "pelor_greyhawk_xdmg"
+		},
+		{
+			"h": "pholtus_greyhawk_xdmg"
+		},
+		{
+			"h": "ralishaz_greyhawk_xdmg"
+		},
+		{
+			"h": "rao_greyhawk_xdmg"
+		},
+		{
+			"h": "syrul_greyhawk_xdmg"
+		},
+		{
+			"h": "tharizdun_greyhawk_xdmg"
+		},
+		{
+			"h": "trithereon_greyhawk_xdmg"
+		},
+		{
+			"h": "ulaa_greyhawk_xdmg"
+		},
+		{
+			"h": "vecna_greyhawk_xdmg"
+		},
+		{
+			"h": "wee%20jas_greyhawk_xdmg"
+		}
+	],
+	"sources": [
+		"XDMG"
+	]
+}

@@ -2,11 +2,13 @@
 
 This page should give you enough information to create a character in The Dead City. Other than the entry for your character's upcoming quest, none of the other pages in this wiki are required reading.
 
+**All characters begin their adventures in the Dead City at level 3. You begin with your class and background's starting equipment plus 200 gold, which you may spend before your first adventure to better outfit your character.**
+
 ## Dungeons & Dragons 5.5e
 
 The game system is DnD 5.5e with all non-campaign specific options, equipment, spells, etc. available for character creation. You may not take options from the Dungeon Master's Guide.
 
-If some option exists in both 5e (2014) and 5.5e (2024), you must use the updated 5.5e option unless a DM has given specific permission otherwise. [There are backwards-compatibility rules for bringing the legacy 5e subclasses into 5.5e that are fairly straightforward](https://dungeonmister.com/guides/2014-character-options-with-2024-rules/#:~:text=D%26D%202024-,Some%20general%20conversion%20advice,-Aarakockra%3A%20Wizards%20of).
+If some option exists in both 5e (2014) and 5.5e (2024), you must use the updated 5.5e option unless a DM has given specific permission otherwise. [There are backwards-compatibility rules for bringing the legacy 5e content into 5.5e that are fairly straightforward](https://dungeonmister.com/guides/2014-character-options-with-2024-rules/#:~:text=D%26D%202024-,Some%20general%20conversion%20advice,-Aarakockra%3A%20Wizards%20of).
 
 Campaign-specific options are not allowed by default (Ghosts of Saltmarsh, Curse of Strahd, etc.), but if you feel an option is a natural fit to the setting and strengthens your character concept you may ask the DM for an exception. 
 
@@ -14,7 +16,7 @@ If you need access to these materials online, I recommend searching for 5e.tools
 
 ### Character Sheets
 
-Feel free to use whichever medium is most convenient for you as far as keeping track of your character goes. As long as you can reliably access your character info while playing and it's not disruptive to the DM or other players, anything works.
+Feel free to use whichever medium is most convenient for you as far as keeping track of your character goes. As long as you can reliably access your character info while playing and it's not disruptive to the DM or other players, anything works. [[https://media.dndbeyond.com/compendium-images/phb/downloads/DnD_2024_Character-Sheet.pdf|Here is a direct link to the official DnD 5.5e 2024 character sheet.]]
 
 Expect to roll physical dice while playing, so make sure any roll modifiers are present on your character sheet (attack bonuses, skill modifiers, saving throws, etc.).
 
@@ -39,6 +41,6 @@ Magic is uncommon amongst the denizens of the dead city, but those capable of [[
 
 **You are not expected to come up with historic lore for all your character's known spells (unless you really want to), just know that this is the mechanism for spellcasting in The Dead City.**
 
-Each type of spellcaster connects with lore in different ways: a wizard might meticulously study the context of an eye witness account to fully grasp the context; a bard may pass along spoken stories or learn the songs of the original survivors of the first cataclysms; a cleric might draw deep religious meaning from descriptions of the cataclysms.
+Each type of spellcaster connects with lore in different ways: a Wizard might meticulously study the context of an eye witness account to fully grasp the context; a Bard may pass along spoken stories or learn the songs of the original survivors of the first cataclysms; a Cleric might draw deep religious meaning from descriptions of the cataclysms or by uncovering lost teachings of the [[Old Gods]].
 
 For lower level spells, there are multiple sources that might provide a caster with insights into how to perform the spell. For the highest level spells, there may exist only a single account of a truly terrific event that reveals the spell to a caster.
