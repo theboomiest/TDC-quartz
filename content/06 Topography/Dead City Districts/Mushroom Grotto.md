@@ -1,0 +1,3 @@
+In the southwest portion of the city, a huge shelf of concrete, asphalt, and ruined structures has dropped and slid dozens of feet into the ground but remained otherwise intact. A combination of factors led this artificial grotto to be the perfect habitat for all manner of flora, including serving as the breeding ground for a hostile colony of mycelium. This fungal infection has proven capable of infecting flesh and piloting the entity around to serve the colony's purposes.
+
+The mycelium do not survive well outside the relatively damp and dark grotto, containing what would otherwise be a city-wide outbreak of colony spores.
