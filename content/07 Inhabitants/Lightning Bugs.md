@@ -1,11 +1,11 @@
 The bane of modern inventors and perhaps the only force stopping the [[RATs]] from overrunning the dead city, lightning bugs are small creatures that are attracted to electricity.
-#### Juvenile Lightning Bugs
+## Juvenile Lightning Bugs
 
 ![[img_lightningBug-juvenile.png]]
 
 Juvenile lightning bugs are small creatures that are attracted to and feed on electricity. Highly sensitive to electromagnetic fields and capable of burrowing, climbing, and swimming; juvenile bugs are nigh impossible to keep away from sources of electricity. After consuming enough power, they rapidly molt into their mature form.
 
-#### Mature Lightning Bugs
+## Mature Lightning Bugs
 
 ![[img_lightningBug-mature.png]]
 
