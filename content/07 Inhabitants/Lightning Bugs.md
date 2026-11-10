@@ -1,4 +1,4 @@
-The bane of modern inventors and perhaps the only force stopping the [[RATs]] from overrunning the dead city, lightning bugs are small creatures that are attracted to electricity.
+The bane of modern inventors and perhaps the only force stopping the [[RATs]] from overrunning the dead city. All lightning bugs are attracted to and feed upon sources of electricity.
 ## Juvenile Lightning Bugs
 
 ![[img_lightningBug-juvenile.png]]
