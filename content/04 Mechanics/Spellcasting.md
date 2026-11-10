@@ -1,0 +1,5 @@
+Magic is uncommon amongst the denizens of the dead city, but those capable of spellcasting do so by personally connecting with a piece of lore pertaining to the first or second cataclysm. 
+
+Each type of spellcaster connects with lore in different ways: a Wizard might meticulously study the context of an eye witness account to fully grasp the context; a Bard may pass along spoken stories or learn the songs of the original survivors of the first cataclysms; a Cleric might draw deep religious meaning from descriptions of the cataclysms or by uncovering lost teachings of the [[Old Gods]].
+
+For lower level spells, there are multiple sources that might provide a caster with insights into how to perform the spell. For the highest level spells, there may exist only a single account of a truly terrific event that reveals the spell to a caster.
