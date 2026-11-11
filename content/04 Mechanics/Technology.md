@@ -1,0 +1,5 @@
+Modern denizens of the dead city are surrounded by the remnants of a civilization incomprehensibly more advanced than themselves. What few technologies remained operable following the [[First Cataclysm]] were later destroyed by the elements or the [[Second Cataclysm]].
+
+Progress at rediscovering and recreating those lost technologies has been slow; electricity has remained practically out of reach due to the [[Lightning Bugs]] that infest the city and the [[RATs]] that scour the ruins for valuable scrap to construct their nests.
+
+Thus, the dead city is locked in an artificial dark age; theories and designs exist for power generators, automatic firearms, etc. but external threats to society prevent them from being realized. Craftsmen in the city are limited to medieval-era tools and workstations to produce their goods.
