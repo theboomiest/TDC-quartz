@@ -1,0 +1,1 @@
+Self-described cartographer who attempted to map the mountain range north of the city. He died on his final expedition and produced a map that was completely unintelligible. City residents call the mountains [[Krim's Teeth]] in his honor.

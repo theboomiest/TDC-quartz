@@ -1,0 +1,9 @@
+![[img_watch-sloan.png]]
+
+> Freyja, I am presenting you with the distinct honor of being my 7th example. Lucky, lucky Freyja. Why'd you do it huh? If you wanted out we'd a' dismissed ya with full honors. Selling out [[Harmony]] to the raiders makes us all look bad Freyja. Ya shouldn't make us look bad like that.
+> ...
+> ...
+> ...
+> S'alright. You don't gotta say nothing. We always handle our own.
+
+\- Harvey "One-Eyed" Sloan shortly before publicly executing Freyja Dree, former second in command of the Neighborhood Watch

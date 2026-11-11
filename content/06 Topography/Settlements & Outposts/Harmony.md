@@ -1,0 +1,4 @@
+The largest and longest-lived settlement in the dead city, Harmony is built in the ruins of a massive tower constructed before the [[First Cataclysm]]. It is home to several hundred citizens that occupy the tower's dozens of floors. 
+
+The lowest floors extend underground and connect to the city's derelict [[Metro Tunnels]]. The ground floor is a defended checkpoint manned by the [[Neighborhood Watch]] and Harmony's own militia. Above that is the trade center - the beating heart of the dead city's economy - stocked with products sourced from all across the city.
+The topmost levels have rooftop farms that supplement food scavenging efforts, but Harmony is not capable of feeding its own population without trading with nearby [[Scrimshaw]].
