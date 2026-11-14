@@ -1,1 +1,0 @@
-Small fishing village on the edge of the [[Flooded Fishing District]].

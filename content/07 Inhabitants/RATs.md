@@ -2,7 +2,7 @@
 
 The Reclamation & Anti Trespass units - RATs, are droids whose only apparent goal is to restore the city to its former glory. However, whatever schematics these robots are using - if any - are corrupted. They lay concrete and rebar in nonsensical patterns, creating labyrinthine dungeons that serve no purpose. These dungeons are commonly referred to as rats' nests and are typically avoided unless causing problems for a nearby settlement. 
 
-The RATs themselves often have defects that cause unpredictable quirks in their base functions. This almost always includes unwarranted aggression against what the RATs consider trespassers. A notable exception is [[Old NaN]] in [[Dreg]], who does not seem to recognize itself as a RAT at all.
+The RATs themselves often have defects that cause unpredictable quirks in their base functions. This almost always includes unwarranted aggression against what the RATs consider trespassers. A notable exception is [[Old NaN]] in [[Ailcross]], who does not seem to recognize itself as a RAT at all.
 
 The RATs crop up randomly and their numbers never seem to dissipate no matter how many are taken out; there must be a factory pumping them out somewhere in [[The Dead City]]. 
 
